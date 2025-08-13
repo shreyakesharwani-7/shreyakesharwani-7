@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shreyakesharwani-7/ShreyaKesharwani/blob/main/github-header-banner%20(2).png?raw=true" alt="Shreya Kesharwani Banner" />
+  <img src="https://github.com/shreyakesharwani-7/shreyakesharwani-7/blob/main/github-header-banner%20(2).png?raw=true" alt="Shreya Kesharwani Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shreya Kesharwani</h1>
