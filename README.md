@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shreya Kesharwani</h1>
-<h3 align="center">🚀 Python Developer | 📊 Data Science Enthusiast | 🤖 Machine Learning Explorer</h3>
+<h3 align="center">🚀 Python Developer | 📊 Data Science Enthusiast | 🤖 Machine Learning Explorer | Aspiring Developer | DSA Learner | Problem Solver </h3>
 
 <img align="right" alt="Coding" width="400" src="https://images4.alphacoders.com/135/thumb-1920-1358530.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakesharwani-7&label=Profile%20views&color=0e75b6&style=flat" alt="shreyakesharwani-7" /> </p>
