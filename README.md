@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Science | Machine Learning | Deep Learning DSA & Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [https://visionary-gaufre-263837.netlify.app/](https://visionary-gaufre-263837.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shreyakesharwani.netlify.app/](https://shreyakesharwani.netlify.app/)
 
 - 💬 Ask me about **Python • Data Science • Machine Learning Algorithms • Problem Solving**
 
