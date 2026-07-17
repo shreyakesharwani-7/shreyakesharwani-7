@@ -3,20 +3,20 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Shreya Kesharwani</h1>
-<h3 align="center">🚀 Python Developer | 📊 Data Science Enthusiast | 🤖 Machine Learning Explorer | Aspiring Developer | DSA Learner | Problem Solver </h3>
+<h3 align="center">🚀 Python  | 📊 Data Analytics | 🤖 Machine Learning Explorer | Java Developer | DSA Learner | Problem Solver </h3>
 
 <img align="right" alt="Coding" width="400" src="https://images4.alphacoders.com/135/thumb-1920-1358530.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyakesharwani-7&label=Profile%20views&color=0e75b6&style=flat" alt="shreyakesharwani-7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shreyakeshari70" target="blank"><img src="https://img.shields.io/twitter/follow/shreyakeshari70?logo=twitter&style=for-the-badge" alt="shreyakeshari70" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science | Machine Learning | Deep Learning DSA & Competitive Programming**
+- 🌱 I’m currently learning **Data analytic | Machine Learning | Deep Learning DSA & Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [https://shreyakesharwani.netlify.app/](https://shreyakesharwani.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shreyakesharwani-7.github.io/My-Portfolio/](https://shreyakesharwani-7.github.io/My-Portfolio/)
 
 - 💬 Ask me about **Python • Data Science • Machine Learning Algorithms • Problem Solving**
 
-- 📫 How to reach me **shreyakesharwani5524@gmail.com**
+- 📫 How to reach me **shreyakesh9936@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shreyakesharwani70/](https://www.linkedin.com/in/shreyakesharwani70/)
 
